@@ -75,6 +75,7 @@ body{
 }
 
 .todo-list li{
+    height: 41px;
     list-style: none;
     padding: 10px;
     border: 1px solid black;
